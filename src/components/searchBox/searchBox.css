@@ -1,0 +1,15 @@
+.search-box {
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding: 10px;
+    width: 200px;
+    line-height: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+    background-color: rgba(40, 45, 46, 0.5);
+  }
+
+  .monster-search-box{
+    margin-top: 10px;
+  }
